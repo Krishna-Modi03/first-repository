@@ -71,6 +71,9 @@ a{
     z-index: -100;
     border: 0px;
 }
+.srchbar:focus{
+    outline: none;
+}
 .srch .srch-icon{
     position: absolute;
     color: #62656a;
